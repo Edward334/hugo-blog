@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = "zh-CN"
+title = '苍宿影的博客'
+theme = 'ananke'
+defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = false

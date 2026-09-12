@@ -3,19 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-11-21T22:09:50+08:00</lastmod>
+    <lastmod>2026-09-06T10:26:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-09-06T10:26:41+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-06T10:26:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2026-09-06T10:26:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%AD%BB%E4%BA%A1/</loc>
+    <lastmod>2026-09-06T10:26:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/a-year-later-rethink-suicide/</loc>
+    <lastmod>2026-09-06T10:26:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%87%AA%E6%9D%80/</loc>
+    <lastmod>2026-09-06T10:26:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-teens-are-losing-emotional-expression/</loc>
     <lastmod>2025-11-21T22:09:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/why_teens_lost_their_emotions/</loc>
-    <lastmod>2025-11-21T22:09:50+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/about_suicide/</loc>
+    <loc>http://localhost:1313/posts/my-views-on-suicide/</loc>
     <lastmod>2025-10-26T08:17:10+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -1,0 +1,16 @@
+- name: Blog
+  url: https://blog.astryn.top/
+  desc: 文字、记录与思考
+  image: https://blog.astryn.top/favicon.ico
+- name: Tools
+  url: https://tools.astryn.top/
+  desc: 一些实用的小工具
+  image: https://astryn.top/assets/touxiang.jpg
+- name: Bilibili
+  url: https://space.bilibili.com/2011489276
+  desc: 视频与声音的另一面
+  image: https://www.bilibili.com/favicon.ico
+- name: GitHub
+  url: https://github.com/edward334
+  desc: 代码与正在发生的事
+  image: https://github.com/edward334.png

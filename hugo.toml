@@ -1,8 +1,15 @@
 baseURL = 'https://example.org/'
-languageCode = "zh-CN"
+locale = "zh-CN"
 title = '苍宿影的博客'
 theme = 'reimu'
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = false
+# Count CJK characters individually, otherwise Chinese text is treated as one word
+# per paragraph and WordCount/ReadingTime/excerpts are all wrong.
+hasCJKLanguage = true
+# Let `publishDate` drive the article's displayed date (Reimu renders .Date everywhere).
+# Falls back to `date` when publishDate is absent.
+[frontmatter]
+date = ["publishDate", "date"]
 [params]
 mainSections = ["posts"]

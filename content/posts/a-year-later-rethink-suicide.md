@@ -1,7 +1,7 @@
 +++
 date = '2026-09-06T10:26:41+08:00'
 publishDate = '2026-09-26T17:53:02+08:00'
-draft = true
+draft = false
 title = '一年后，重谈自杀'
 description = '一年后重新阅读旧文，并重新思考自杀、自由与尊严。'
 tags = ['思考', '自杀']
